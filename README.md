@@ -101,7 +101,7 @@ Ideal para quem está iniciando e quer um exemplo prático de aplicação real d
 Este projeto está licenciado sob a MIT License.
 Sinta-se livre para usar, modificar e compartilhar 🎉
 
-## 👥 Integrantes do grupo
+## 👥 **Integrantes do grupo**
 - 01786636 Daniel Tenorio Barbosa
 - 01259839 Mariana Cristina da Silva Ferreira
 - 01790685 Victor De Moraes Silva
