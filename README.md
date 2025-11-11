@@ -85,11 +85,11 @@ Números sorteados: [24]
 
 | Conceito                      | Descrição                                                    |
 | ----------------------------- | ------------------------------------------------------------ |
-| *Encapsulamento*              | Controle de acesso a atributos com métodos getters e setters |
-| *Interfaces*                  | Estrutura que define os métodos da classe `Bingo`            |
-| *Coleções*                    | Uso de `ArrayList` para armazenar números sorteados          |
-| *Tratamento de Exceções*      | Prevenção de erros de entrada de dados                       |
-| *Loops e Controle de Fluxo*   | Uso de `do/while` e `switch` para o menu interativo          |
+| Encapsulamento                | Controle de acesso a atributos com métodos getters e setters |
+| Interfaces                    | Estrutura que define os métodos da classe `Bingo`            |
+| Coleções                      | Uso de `ArrayList` para armazenar números sorteados          |
+| Tratamento de Exceções        | Prevenção de erros de entrada de dados                       |
+| Loops e Controle de Fluxo     | Uso de `do/while` e `switch` para o menu interativo          |
 
 🏁 Conclusão
 
