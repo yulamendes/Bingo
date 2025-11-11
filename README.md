@@ -8,6 +8,12 @@
 
 ---
 
+## 👥 **Integrantes do grupo**
+- 01786636 Daniel Tenorio Barbosa
+- 01259839 Mariana Cristina da Silva Ferreira
+- 01790685 Victor De Moraes Silva
+- 01751630 Yula Eduarda Silva Mendes
+
 ## 🧩 Sobre o Projeto
 
 O **Bingo em Java** é um projeto educativo desenvolvido para praticar os fundamentos da **Programação Orientada a Objetos (POO)**.  
@@ -100,10 +106,4 @@ Ideal para quem está iniciando e quer um exemplo prático de aplicação real d
 
 Este projeto está licenciado sob a MIT License.
 Sinta-se livre para usar, modificar e compartilhar 🎉
-
-## 👥 **Integrantes do grupo**
-- 01786636 Daniel Tenorio Barbosa
-- 01259839 Mariana Cristina da Silva Ferreira
-- 01790685 Victor De Moraes Silva
-- 01751630 Yula Eduarda Silva Mendes
 
