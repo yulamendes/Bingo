@@ -61,7 +61,7 @@ git clone https://github.com/SEU-USUARIO/Bingo_poo.git
 cd Bingo_poo
 
 2️⃣ Compilar os arquivos .java
-javac *.java
+javac .java
 
 3️⃣ Executar o programa principal
 java Main
@@ -85,11 +85,11 @@ Números sorteados: [24]
 
 | Conceito                      | Descrição                                                    |
 | ----------------------------- | ------------------------------------------------------------ |
-| **Encapsulamento**            | Controle de acesso a atributos com métodos getters e setters |
-| **Interfaces**                | Estrutura que define os métodos da classe `Bingo`            |
-| **Coleções**                  | Uso de `ArrayList` para armazenar números sorteados          |
-| **Tratamento de Exceções**    | Prevenção de erros de entrada de dados                       |
-| **Loops e Controle de Fluxo** | Uso de `do/while` e `switch` para o menu interativo          |
+| *Encapsulamento*              | Controle de acesso a atributos com métodos getters e setters |
+| *Interfaces*                  | Estrutura que define os métodos da classe `Bingo`            |
+| *Coleções*                    | Uso de `ArrayList` para armazenar números sorteados          |
+| *Tratamento de Exceções*      | Prevenção de erros de entrada de dados                       |
+| *Loops e Controle de Fluxo*   | Uso de `do/while` e `switch` para o menu interativo          |
 
 🏁 Conclusão
 
@@ -101,4 +101,3 @@ Ideal para quem está iniciando e quer um exemplo prático de aplicação real d
 Este projeto está licenciado sob a MIT License.
 Sinta-se livre para usar, modificar e compartilhar 🎉
 
-<p align="center">Feito com 💙</p> 
