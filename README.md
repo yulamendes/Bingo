@@ -63,8 +63,6 @@ Também é recomendável ter o Visual Studio Code com a extensão Extension Pack
 
 🧭 Passo a passo
 1️⃣ Clonar o repositório
-git clone https://github.com/SEU-USUARIO/Bingo_poo.git
-cd Bingo_poo
 
 2️⃣ Compilar os arquivos .java
 javac .java
